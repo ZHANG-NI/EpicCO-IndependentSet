@@ -1,6 +1,6 @@
-# AlphaCO: Maximum-Weight Independent Set
+# EpicCO: Maximum-Weight Independent Set
 
-The solver that [AlphaCO](https://github.com/ZHANG-NI/AlphaCO) produced for the maximum-weight independent set problem, starting from CHILS (E. Grossmann, K. Langedal, and C. Schulz, SEA 2025; https://github.com/KarlsruheMIS/CHILS).
+The solver that [EpicCO](https://github.com/ZHANG-NI/EpicCO) produced for the maximum-weight independent set problem, starting from CHILS (E. Grossmann, K. Langedal, and C. Schulz, SEA 2025; https://github.com/KarlsruheMIS/CHILS).
 
 ## Run
 
